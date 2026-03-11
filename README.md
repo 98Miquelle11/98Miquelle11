@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub profile ☺️
 
 I would like to develop professionally in the area of Cybersecurity as well as Service Desk / IT Support 💻🔑📞. I am studying Computer Science and additionally expanding my knowledge in the field of CRM systems, networks, Linux, Windows and IT Security 👨🏼‍💻🛡.
 
