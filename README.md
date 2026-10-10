@@ -1,32 +1,33 @@
 ## Welcome to my GitHub profile ☺️
 
-I would like to develop professionally in the area of Cybersecurity as well as Service Desk / IT Support 💻🔑📞. I am studying Computer Science and additionally expanding my knowledge in the field of CRM systems, networks, Linux, Windows and IT Security 👨🏼‍💻🛡.
+I would like to develop my career in **IT Support / Helpdesk / Service Desk**. I currently work as a Partner Onboarding Agent at Glovo, where I support business users, investigate issues, resolve problems within my scope, and escalate more complex cases to the appropriate internal teams. I am studying Computer Science with a Cybersecurity specialization and continuously developing my technical knowledge to prepare for an entry-level IT Support role. 👨🏼‍💻🆘
 
-For 6 years (including 3 years commercially), I have been gaining experience in working with clients – from sales consulting, through telephone support, to education (cooperation with parents and students). I have also developed my cooperation skills in local government activities and in a scientific club. I am constantly improving my skills in ensuring efficient communication, satisfaction, and full customer support at every stage of cooperation. Thanks to IT studies and own work, I am developing my analytical thinking and technical approach to problem solving, as well as gaining practical knowledge of project management tools, working with databases, programming or building websites 🛠.
+I am currently preparing for the **Cisco Certified Support Technician (CCST) IT Support certification**, which covers the fundamentals of L1 IT support: troubleshooting, computer hardware, operating systems and applications, network connectivity and resource access, ticket management, remote support, security awareness. In my sprofessional role, I use diagnostic questions and follow established processes to investigate reported issues. When a case requires escalation, I coordinate with the appropriate internal team, monitor its progress, and keep the business partner informed until resolution. 🛠
 
 ##
 
 ### 🔧Technical skills🔧
-- Command Prompt/PowerShell,
-- Windows, Linux,
-- Networks,
-- SQL,
-- MS Office
-- Salesforce CRM,
-- Jira,
-- C#.
+- Windows – foundational knowledge, OS troubleshooting,
+- MS 365 – Outlook, Teams, Excel, Word, PowerPoint,
+- Salesforce CRM – hands-on experience with partner accounts and case management,
+- Google Workspace – user-level experience,
+- Jira – foundational knowledge,
+- Helpdesk / IT Support processes – ticket workflows, prioritization, SLA, escalation (course-based knowledge),
+- SQL – academic fundamentals,
+- C# – academic fundamentals.
 
 ### 💡Key competencies💡
-- Initial diagnosis: clarifying questions, recreating the problem, „step-by-step” work,
-- Prioritization and process-based work,
-- Preparing reports and documentation,
-- Customer service: clear communication, patience, de-escalation, ensuring satisfaction,
-- Fluent English (B2/C1),
-- Transferring knowledge in a simple and understandable way – both individually and in groups,
-- Effective communication and cooperation in diverse teams, including international ones.
+- Supporting business users via phone and digital communication channels,
+- Initial troubleshooting: gathering relevant information, asking diagnostic questions and identifying possible causes,
+- Resolving account, application and onboarding issues within my scope and escalating more complex cases,
+- Documenting, monitoring, and following up on cases until resolution,
+- Guiding users through application usage and verifying account and device configurations,
+- Prioritizing tasks, preparing operational reports and collaborating with internal teams,
+- Customer support: active listening, clear communication, patience and explaining solutions in an understandable way,
+- English – B2/C1.
 
 ##
 
-I believe that the best thing we can encounter in our lives is other people 💛👥 – that is why I constantly strive to become a better version of myself in my interactions with others. Over the years, I have learned patience, empathy, active listening, trust building, and asking the right questions. I believe that the willingness to help others and the determination to find solutions are more crucial beyond other skills – this is what clients and colleagues value most about me.
+I believe that the best thing we can encounter in our lives is other people 🧡👥 – and that is why I constantly strive to become a better version of myself in my interactions with others. Over the years, I have learned that patience, empathy, active listening and asking the right questions are essential to effective support. I enjoy understanding problems, helping people find solutions and continuously improving my knowledge, and skills. This is the approach I want to bring to my future career in IT Support.
 
-If you would like to exchange experiences or discuss opportunities for cooperation, please feel free to contact me on LinkedIn! 🤙😌
+If you would like to exchange experiences or discuss opportunities in **IT Support / Helpdesk / Service Desk**, please feel free to contact me on LinkedIn! 👍😊
