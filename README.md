@@ -13,17 +13,18 @@ I am currently preparing for the **Cisco Certified Support Technician (CCST) IT 
 - Google Workspace – user-level experience,
 - Jira – foundational knowledge,
 - Helpdesk / IT Support processes – ticket workflows, prioritization, SLA, escalation (course-based knowledge),
+- Networking & web fundamentals – basic understanding of DNS, VPN, and web hosting.
 - SQL – academic fundamentals,
 - C# – academic fundamentals.
 
 ### 💡Key competencies💡
 - Supporting business users via phone and digital communication channels,
-- Initial troubleshooting: gathering relevant information, asking diagnostic questions and identifying possible causes,
+- Initial troubleshooting – gathering information about reported issues, analyzing symptoms and error messages, asking diagnostic questions, identifying possible causes,
 - Resolving account, application and onboarding issues within my scope and escalating more complex cases,
 - Documenting, monitoring, and following up on cases until resolution,
 - Guiding users through application usage and verifying account and device configurations,
 - Prioritizing tasks, preparing operational reports and collaborating with internal teams,
-- Customer support: active listening, clear communication, patience and explaining solutions in an understandable way,
+- Customer support – active listening, clear communication, patience and explaining solutions in an understandable way,
 - English – B2/C1.
 
 ##
