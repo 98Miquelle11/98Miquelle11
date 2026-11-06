@@ -2,7 +2,7 @@
 
 I would like to develop my career in **IT Support / Helpdesk / Service Desk**. I currently work as a Partner Onboarding Agent at Glovo, where I support business users, investigate issues, resolve problems within my scope, and escalate more complex cases to the appropriate internal teams. I am studying Computer Science with a Cybersecurity specialization and continuously developing my technical knowledge to prepare for an entry-level IT Support role. 👨🏼‍💻🆘
 
-I am currently preparing for the **Cisco Certified Support Technician (CCST) IT Support certification**, which covers the fundamentals of L1 IT support: troubleshooting, computer hardware, operating systems and applications, network connectivity and resource access, ticket management, remote support, security awareness. In my sprofessional role, I use diagnostic questions and follow established processes to investigate reported issues. When a case requires escalation, I coordinate with the appropriate internal team, monitor its progress, and keep the business partner informed until resolution. 🛠
+In my sprofessional role, I use diagnostic questions and follow established processes to investigate reported issues. When a case requires escalation, I coordinate with the appropriate internal team, monitor its progress, and keep the business partner informed until resolution. 🛠
 
 ##
 
